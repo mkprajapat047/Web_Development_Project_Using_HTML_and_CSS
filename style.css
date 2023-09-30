@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    /* .......................................Header section.................................... */
+}
+.topline{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 10px 0px 10px 0;
+    color: aliceblue;
+    
+}
+.header{
+    background-color: rgba(232, 229, 229, 0.841);
+    
+}
+.mainheader{
+    padding: 10px 0px 10px 0;
+}
+.head1{
+    width: 25%;
+    display: inline-block;
+    float: left;
+    padding: 20px 0px 0px 40px;
+}
+.head2{
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    color: rgba(107, 107, 66, 0.715);
+    line-height: 30px;
+    
+    
+}
+.head3{
+    width: 25%;
+    display: inline-block;
+    padding-bottom: 20px;
+    
+}
+.poojabox{
+    font-size: 40px;
+}
+/* ....................................................navbar section...............................  */
+.link {
+
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+    padding: 15px 0px 15px 0px;
+}
+.listitem{
+
+    text-align: center;
+    background-color: rgb(207, 7, 70);
+    
+}
+.link a{
+    color: white;
+    text-decoration: none;
+}
+/* ...........................section 1........................ */
+.video{
+    width: 100%;
+    min-width: 100%;
+}
+.limitted{
+    display: inline-flex;
+    padding-right: 500px;
+}
+/* ...............................section 2.........................  */
+
+.section2{
+    margin-left: 250px;
+    display: flex;
+   
+}
+.image{
+    /* width: 500px; */
+    /* size: 800px; */
+    
+}
+.image {
+    /* float: left; */
+    margin-left: 20px;
+    margin-top: 50px;
+    /* width: 100%; */
+    height: 150px;
+    border-radius: 100%;
+    overflow: hidden;
+    
+    
+  }
+  .box{
+    /* background-color: brown; */
+  }
+
+  .section3{
+    margin-left: 250px;
+    display: flex;
+  }
+
+  .squarebox{
+        display: flex;
+  }
+  .cart{
+    background-color: rgb(207, 7, 70);
+    color: white;
+    text-align: center;
+  }
+  .square{
+    margin: 25px 10px 5px 5px;
+    
+  }
+.images{
+    height: 170px;
+}
+
+
+
+.section4{
+    margin: 20px 0px 20px 255px;
+}
+.gif{
+    height: 355px;
+}
+
+
+
+.section5{
+    width: 1100px;
+    margin: 30px 0px 20px 255px;
+    
+}
+.h5{
+    text-align: center;
+}
